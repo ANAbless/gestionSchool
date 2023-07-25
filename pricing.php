@@ -1,5 +1,4 @@
 
-<?php include 'header.php'?>
   <main id="main">
     <!-- ======= Breadcrumbs ======= -->
     <div class="breadcrumbs" data-aos="fade-in">
