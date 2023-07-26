@@ -1,6 +1,12 @@
 <?php
 // CONX (conx.php)
-$hostname = base64_encode("ABJ-LAP-297\OPERASLOCAL");
+// $hostname = base64_encode("ABJ-LAP-297\OPERASLOCAL");
+// $port = 1433;
+// $dbname = base64_encode("GESTIONSCHOOL");
+// $username = base64_encode("sa");
+// $pw = base64_encode("Operas@db22");
+
+$hostname = base64_encode("DESKTOP-GU3QJL0\LOCALDB");
 $port = 1433;
 $dbname = base64_encode("GESTIONSCHOOL");
 $username = base64_encode("sa");
