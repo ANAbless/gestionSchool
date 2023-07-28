@@ -1,5 +1,5 @@
 <?php
-include_once 'conx.php';
+include_once 'config/conx.php';
 function getPosts(){
     global $bdd;
     $statement  = $bdd->query("SELECT * FROM t_menus");
