@@ -45,5 +45,4 @@
     </section><!-- End Events Section -->
 
   </main><!-- End #main -->
-  <?php include 'footer.php' ?>
   

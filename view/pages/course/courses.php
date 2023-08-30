@@ -101,4 +101,3 @@
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
-  <?php include 'footer.php' ?>
